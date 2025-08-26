@@ -1,6 +1,6 @@
 # Frontend Challenge
 
-Este é um projeto Vue.js 3 que implementa uma interface para visualização de detalhes de pré-pedidos (Pre-Order). O projeto foi desenvolvido com foco em boas práticas de desenvolvimento, testabilidade e experiência do usuário.
+Este é um projeto Vue.js 3. O projeto foi desenvolvido com foco em boas práticas de desenvolvimento, testabilidade e experiência do usuário.
 
 ## 🚀 Tecnologias Utilizadas
 
@@ -25,7 +25,7 @@ Este é um projeto Vue.js 3 que implementa uma interface para visualização de 
 ### 1. Clone o repositório
 
 ```bash
-git clone <url-do-repositorio>
+git clone https://github.com/fabiopchagas/frontend-challenge.git
 cd frontend-challenge
 ```
 
