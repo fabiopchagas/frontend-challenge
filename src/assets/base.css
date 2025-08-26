@@ -1,0 +1,24 @@
+:root {
+  --color-primary: #1052e0;
+  --color-dark: #303e49;
+  --color-gray: #566574;
+  --color-success: #1e976c;
+  --color-light-blue: #edf3ff;
+  --color-white: #ffffff;
+  --color-black: #000000;
+  --color-info-tip: #a3acb6;
+
+  --color-background: #ffffff;
+  --color-text: var(--color-gray);
+
+  --opacity-overlay: 0.5;
+  --opacity-border: 0.2;
+  --opacity-shadow: 0.08;
+
+  --font-size-base: 12px;
+  --font-size-medium: 14px;
+  --font-size-large: 16px;
+  --font-size-xl: 18px;
+  --font-size-xxl: 20px;
+  --font-size-xxxl: 24px;
+}
