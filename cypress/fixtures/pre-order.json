@@ -1,0 +1,32 @@
+{
+  "preOrder": {
+    "header": {
+      "number": 12345,
+      "serial": 67890,
+      "buyer": "Test Buyer",
+      "price": 1000,
+      "currency": "USD",
+      "createdAt": "2024-01-01",
+      "status": "Active",
+      "contact": {
+        "name": "John Doe",
+        "email": "john@example.com",
+        "phone": "123-456-7890",
+        "fax": "123-456-7891"
+      }
+    },
+    "supplier": {
+      "code": "SUP001",
+      "name": "Test Supplier",
+      "address": "Supplier Address"
+    },
+    "addresses": [
+      {
+        "code": "ADD001",
+        "name": "Address 1",
+        "address": "Address 1 Location",
+        "label": "Primary"
+      }
+    ]
+  }
+}
